@@ -69,28 +69,14 @@ float a[1] = {1.0f};
 ### Live Demo
 🌐 **[Try it now!](#)** *(Coming soon)*
 
-### Quick Start Video
-📹 **[Watch Tutorial](#)** *(Coming soon)*
+
 
 ### Screenshots
 
 🖼️ View Screenshots
 
-#### Login Page
-![Login](https://via.placeholder.com/600x400/667eea/ffffff?text=Login+Page)
+In Images Folder
 
-#### Filter Specification
-![Specification](https://via.placeholder.com/600x400/667eea/ffffff?text=Filter+Specification)
-
-#### Results Visualization
-![Results](https://via.placeholder.com/600x400/667eea/ffffff?text=Frequency+Response)
-
-#### Dashboard
-![Dashboard](https://via.placeholder.com/600x400/667eea/ffffff?text=User+Dashboard)
-
-</details>
-
----
 
 ## 🚀 Installation
 
